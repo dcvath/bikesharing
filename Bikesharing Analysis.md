@@ -1,10 +1,16 @@
 # Bikesharing Analysis
 
 ## Overview of the Statistical Analysis
+The purpose of this analysis was to use Tableau to assess NYC Citi Bike data to demonstrate this business would be viable to start a bikeshariing business in Des Moines, Iowa. The information used within this analysis will be to court investors on the new venture.
 
-### Purpose
+### Purpose 
 
 ## Results
+### Bikesharing Story
+This Bikesharing Story can be accessed here: https://public.tableau.com/app/profile/dvath/viz/BikesharingStoryforChallenge/BikesharingStory?publish=yes
+
+#### 
+
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
