@@ -1,23 +1,13 @@
-# Kickstarting with Excel
+# Bikesharing Analysis
 
-## Overview of Project
+## Overview of the Statistical Analysis
 
 ### Purpose
 
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
 ## Results
+There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+There is a description of the results for each visualization (7 pt)
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+## Summary
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
