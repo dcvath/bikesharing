@@ -16,6 +16,15 @@ The Checkout Times for Users visualization displays the length of time that bike
 The Checkout Times by Gender visualization displays the length of time that bikes are checked out for each gender, with the majority of bikes being checked out by males. 
 ![Bikesharing Story_Checkout times by gender](https://user-images.githubusercontent.com/85654649/135781740-60eb663e-e5a0-4662-a7eb-34e5dd3fbe23.png)
 
+#### Trips by Weekday per Hour
+The Trips by Weekday per Hour visualizatiion displays the number of bike trips by weekday for each hour of the day as a heatmap, showing between 5 - 6pm as the peak hours. 
+![Bikesharing Story_Trips by weekday per hour](https://user-images.githubusercontent.com/85654649/135782202-6002163f-2734-4498-b5eb-d80ab048d475.png)
+
+#### Trips by Gender (Weekday per Hour)
+The Trips by Gender (Weekday per Hour) visualization displays the number of bike trips by gender for each hour of each day of the week as a heatmap, with the busiest rental times in the morning and evening commute times.
+
+
+
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
