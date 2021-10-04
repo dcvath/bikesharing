@@ -39,10 +39,7 @@ The Users visualization displays the distribution of subscribers (long-term subs
 
 
 ## Summary
-
-age analysis
-analyze Des Moines data on males in the area. 
--There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Overall, there is a strong case for bikesharing businesses, particularly among the male demographic. Further analysis should be conducted to determine the market within Des Moines. The two additioinal analysis I would recommend would be to determine the number of young people and males within the Des Moiines metro area. If there are a high number of males and younger people, it's likley that the bikesharing business will florish in Des Moines. I would attempt to obtain this data from the Census bureau. 
 
 ## Tableau Public Profile to Access My Analysis
 To access all of the work I completed for this challenge, please visit my Tableau Public website here, including the story I created for deliverable #3 titled, "Bikesharing Story":
