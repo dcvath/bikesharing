@@ -4,6 +4,7 @@
 ### Purpose 
 The purpose of this analysis was to use Tableau to assess NYC Citi Bike data to demonstrate this business would be viable to start a bikesharing business in Des Moines, Iowa. The information used within this analysis will be to court investors on the new venture.
 
+
 ## Results
 ### Bikesharing Story
 This Bikesharing Story can be accessed here: https://public.tableau.com/app/profile/dvath/viz/BikesharingStoryforChallenge/BikesharingStory?publish=yes
@@ -22,14 +23,25 @@ The Trips by Weekday per Hour visualizatiion displays the number of bike trips b
 
 #### Trips by Gender (Weekday per Hour)
 The Trips by Gender (Weekday per Hour) visualization displays the number of bike trips by gender for each hour of each day of the week as a heatmap, with the busiest rental times in the morning and evening commute times.
+![Bikesharing Story_trips by gender weekday per hour](https://user-images.githubusercontent.com/85654649/135783005-8b590c2b-de20-4774-a953-ecefc04e97ca.png)
 
+#### User Trips by Gender by Weekday
+The User Trips by Gender by Weekday the number of bike trips by gender for each hour for each day of the week as a heatmap, with the most subscribers being males the latter part of the week.
+![Bikesharing Story_User trips by gender by weekday](https://user-images.githubusercontent.com/85654649/135783251-cb94921f-1a1e-4b6a-99ee-0c04dce5aab3.png)
 
+#### August Peak Hours
+The August Peak Hours visualization displays the rental hours for August, including the peak hours, which are 5 and 6pm (17:00 and 18:00).
+![August Peak Hours](https://user-images.githubusercontent.com/85654649/135783643-be226835-6d54-46f4-97b0-4a343078286a.png)
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+#### Users
+The Users visualization displays the distribution of subscribers (long-term subscriptions) and customers (short-term usage), which shows the majority of the customer base are subscribers, indicating a steady revenue stream.
+![Users](https://user-images.githubusercontent.com/85654649/135783802-66a973ee-488d-4319-97bd-2c4c68c5824e.png)
+
 
 ## Summary
 
+age analysis
+analyze Des Moines data on males in the area. 
 -There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
 ## Tableau Public Profile to Access My Analysis
